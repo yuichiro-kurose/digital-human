@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "id": "topic1-pro",
+      "name": "Topic 1 Pro",
+      "gender": "female"
+    },
+    {
+      "id": "topic1-con",
+      "name": "Topic 1 Con",
+      "gender": "female"
+    },
+    {
+      "id": "topic2-pro",
+      "name": "Topic 2 Pro",
+      "gender": "female"
+    },
+    {
+      "id": "topic2-con",
+      "name": "Topic 2 Con",
+      "gender": "female"
+    },
+    {
+      "id": "topic3-pro",
+      "name": "Topic 3 Pro",
+      "gender": "female"
+    },
+    {
+      "id": "topic3-con",
+      "name": "Topic 3 Con",
+      "gender": "female"
+    },
+    {
+      "id": "topic4-pro",
+      "name": "Topic 4 Pro",
+      "gender": "female"
+    },
+    {
+      "id": "topic4-con",
+      "name": "Topic 4 Con",
+      "gender": "female"
+    }
+  ]
+}
